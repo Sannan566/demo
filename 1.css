@@ -1,0 +1,7 @@
+    body{
+        height: 1000px;
+       background: linear-gradient(rgb(17, 17, 116),rgb(91, 201, 91) ) no-repeat;
+    }
+    h1{
+        color: rgb(233, 233, 205);
+    }
